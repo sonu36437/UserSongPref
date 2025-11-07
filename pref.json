@@ -17,60 +17,68 @@
     "Devotional",
     "Remix & Mashup"
   ],
-  "artists": {
-    "bollywood": [
-      "Arijit Singh",
-      "Shreya Ghoshal",
-      "Neha Kakkar",
-      "Jubin Nautiyal",
-      "Sonu Nigam",
-      "Armaan Malik",
-      "Atif Aslam",
-      "Asha Bhosle",
-      "Kishore Kumar",
-      "Lata Mangeshkar",
-      "Badshah",
-      "Honey Singh",
-      "Pritam",
-      "Amit Trivedi"
-    ],
-    "haryanvi": [
-      "Gulzaar Chhaniwala",
-      "Sumit Goswami",
-      "KD Desi Rock",
-      "Masoom Sharma",
-      "Raju Punjabi",
-      "Renuka Panwar",
-      "Ajay Hooda",
-      "Raj Mawar",
-      "Manisha Sharma"
-    ],
-    "bhojpuri": [
-      "Khesari Lal Yadav",
-      "Pawan Singh",
-      "Ritesh Pandey",
-      "Pramod Premi Yadav",
-      "Neelkamal Singh",
-      "Shilpi Raj",
-      "Ankush Raja",
-      "Kajal Raghwani",
-      "Indu Sonali"
-    ],
-    "english": [
-      "Ed Sheeran",
-      "Taylor Swift",
-      "The Weeknd",
-      "Justin Bieber",
-      "Ariana Grande",
-      "Drake",
-      "Billie Eilish",
-      "Dua Lipa",
-      "Post Malone",
-      "Bruno Mars",
-      "Coldplay",
-      "Rihanna",
-      "Eminem",
-      "Imagine Dragons"
-    ]
-  }
+  "artists": [
+    {
+      "bollywood": [
+        "Arijit Singh",
+        "Shreya Ghoshal",
+        "Neha Kakkar",
+        "Jubin Nautiyal",
+        "Sonu Nigam",
+        "Armaan Malik",
+        "Atif Aslam",
+        "Asha Bhosle",
+        "Kishore Kumar",
+        "Lata Mangeshkar",
+        "Badshah",
+        "Honey Singh",
+        "Pritam",
+        "Amit Trivedi"
+      ]
+    },
+    {
+      "haryanvi": [
+        "Gulzaar Chhaniwala",
+        "Sumit Goswami",
+        "KD Desi Rock",
+        "Masoom Sharma",
+        "Raju Punjabi",
+        "Renuka Panwar",
+        "Ajay Hooda",
+        "Raj Mawar",
+        "Manisha Sharma"
+      ]
+    },
+    {
+      "bhojpuri": [
+        "Khesari Lal Yadav",
+        "Pawan Singh",
+        "Ritesh Pandey",
+        "Pramod Premi Yadav",
+        "Neelkamal Singh",
+        "Shilpi Raj",
+        "Ankush Raja",
+        "Kajal Raghwani",
+        "Indu Sonali"
+      ]
+    },
+    {
+      "english": [
+        "Ed Sheeran",
+        "Taylor Swift",
+        "The Weeknd",
+        "Justin Bieber",
+        "Ariana Grande",
+        "Drake",
+        "Billie Eilish",
+        "Dua Lipa",
+        "Post Malone",
+        "Bruno Mars",
+        "Coldplay",
+        "Rihanna",
+        "Eminem",
+        "Imagine Dragons"
+      ]
+    }
+  ]
 }
