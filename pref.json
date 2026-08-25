@@ -5,6 +5,12 @@
     "Top Bollywood",
     "Top Haryanvi",
     "Top Bhojpuri",
+    "Top Punjabi",
+    "Top Tamil",
+    "Top Telugu",
+    "Top Bengali",
+    "Top Marathi",
+    "Top Malayalam",
     "90s Songs",
     "Lo-Fi",
     "Romantic Hits",
@@ -14,8 +20,30 @@
     "Chill & Relax",
     "Indie Pop",
     "Devotional",
-    "Remix & Mashup"
+    "Remix & Mashup",
+
+    "Top Korean",
+    "Top Japanese",
+    "Top Spanish",
+    "Top Latin",
+    "Top French",
+    "Top German",
+    "Top Arabic",
+    "Top Turkish",
+    "Top Portuguese",
+    "Top African",
+    "Afrobeats",
+    "K-Pop",
+    "J-Pop",
+    "Latin Pop",
+    "Reggaeton",
+    "Brazilian Hits",
+    "French Pop",
+    "Arabic Hits",
+    "Turkish Pop",
+    "Afrobeat Hits"
   ],
+
   "artists": [
     {
       "bollywood": [
@@ -34,9 +62,10 @@
         "Pritam",
         "Amit Trivedi",
         "Neeti Mohan",
-        "Hemesh resmiya"
+        "Himesh Reshammiya"
       ]
     },
+
     {
       "haryanvi": [
         "Gulzaar Chhaniwala",
@@ -48,11 +77,12 @@
         "Ajay Hooda",
         "Raj Mawar",
         "Manisha Sharma",
-        "Ruchika jangid",
-        "Monkia sharma",
-        "shiva chaudry"
+        "Ruchika Jangid",
+        "Monika Sharma",
+        "Shiva Choudhary"
       ]
     },
+
     {
       "bhojpuri": [
         "Khesari Lal Yadav",
@@ -66,6 +96,7 @@
         "Indu Sonali"
       ]
     },
+
     {
       "english": [
         "Ed Sheeran",
@@ -82,6 +113,172 @@
         "Rihanna",
         "Eminem",
         "Imagine Dragons"
+      ]
+    },
+
+    {
+      "punjabi": [
+        "Diljit Dosanjh",
+        "Karan Aujla",
+        "Sidhu Moose Wala",
+        "AP Dhillon",
+        "Shubh",
+        "Guru Randhawa",
+        "Amrit Maan",
+        "Jass Manak",
+        "Harrdy Sandhu",
+        "B Praak"
+      ]
+    },
+
+    {
+      "korean": [
+        "BTS",
+        "BLACKPINK",
+        "NewJeans",
+        "TWICE",
+        "Stray Kids",
+        "SEVENTEEN",
+        "EXO",
+        "IVE",
+        "aespa",
+        "LE SSERAFIM",
+        "IU",
+        "Jungkook",
+        "Jimin",
+        "Taeyeon"
+      ]
+    },
+
+    {
+      "japanese": [
+        "YOASOBI",
+        "Kenshi Yonezu",
+        "Hikaru Utada",
+        "Ado",
+        "LiSA",
+        "Fujii Kaze",
+        "King Gnu",
+        "Official HIGE DANdism",
+        "Aimyon",
+        "Mrs. GREEN APPLE"
+      ]
+    },
+
+    {
+      "spanish_latino": [
+        "Bad Bunny",
+        "Karol G",
+        "J Balvin",
+        "Shakira",
+        "Rosalía",
+        "Rauw Alejandro",
+        "Feid",
+        "Ozuna",
+        "Daddy Yankee",
+        "Maluma",
+        "Anuel AA",
+        "Becky G"
+      ]
+    },
+
+    {
+      "brazilian_portuguese": [
+        "Anitta",
+        "Alok",
+        "Luan Santana",
+        "Gusttavo Lima",
+        "Wesley Safadão",
+        "Marília Mendonça",
+        "Ludmilla",
+        "Jorge & Mateus",
+        "Henrique & Juliano",
+        "Dennis DJ"
+      ]
+    },
+
+    {
+      "french": [
+        "Stromae",
+        "Aya Nakamura",
+        "Gims",
+        "Dadju",
+        "Soprano",
+        "Indila",
+        "Angèle",
+        "Orelsan",
+        "Vitaa",
+        "Slimane"
+      ]
+    },
+
+    {
+      "german": [
+        "Rammstein",
+        "Apache 207",
+        "LEA",
+        "Udo Lindenberg",
+        "Cro",
+        "Capital Bra",
+        "Nena",
+        "Mark Forster",
+        "Sarah Connor"
+      ]
+    },
+
+    {
+      "arabic": [
+        "Amr Diab",
+        "Nancy Ajram",
+        "Elissa",
+        "Tamer Hosny",
+        "Mohamed Ramadan",
+        "Sherine",
+        "Kadim Al Sahir",
+        "Wael Kfoury",
+        "Assala Nasri",
+        "Balqees"
+      ]
+    },
+
+    {
+      "turkish": [
+        "Tarkan",
+        "Sezen Aksu",
+        "Mabel Matiz",
+        "Edis",
+        "Hadise",
+        "Aleyna Tilki",
+        "Ezhel",
+        "Murat Boz",
+        "Demet Akalın"
+      ]
+    },
+
+    {
+      "afrobeats": [
+        "Burna Boy",
+        "Wizkid",
+        "Davido",
+        "Rema",
+        "Tems",
+        "Ayra Starr",
+        "Asake",
+        "Fireboy DML",
+        "Omah Lay",
+        "Yemi Alade"
+      ]
+    },
+
+    {
+      "south_african": [
+        "Tyla",
+        "Black Coffee",
+        "Master KG",
+        "Kabza De Small",
+        "DJ Maphorisa",
+        "Nasty C",
+        "Amapiano"
       ]
     }
   ]
